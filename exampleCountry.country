@@ -1,0 +1,23 @@
+<country>
+    <money>1000</money>
+    <econ>
+        <growth>7</growth> <!--economic growth in percent, 7%-->
+    </econ>
+    <flag>example.png</flag>
+    <name>
+        <democracy>Republic of Example</democracy>
+        <monarchy>
+            <constitutional>Democratic Empire of Example</constitutional>
+            <absolute>Democratic Empire of Example</absolute>
+        </monarchy>
+    </name>
+    <pops>
+        <growth>5</growth> <!--Pop growth in percent, is equal for everyone-->
+        <nobility>100</nobility> <!--100 nobles-->
+        <workers>40000</workers> <!--40000 workers-->
+    </pops>
+    <capital>4</capital> <!--Capital city, state id-->
+    <religion>Ixamplee</religion> <!--Religion, must be valid religion in religion files-->
+    <cultures>Examplishkh</cultures> <!--Cultures, must be valid culture-->
+    <colour>4 71 4<colour>
+</country>
