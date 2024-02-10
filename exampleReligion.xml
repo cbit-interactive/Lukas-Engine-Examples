@@ -1,4 +1,15 @@
 <religion>
     <name>Ixamplee</name>
     <colour>4 4 4<colour>
+
+    <ideas>
+        <idea>
+            <iname>EXPAND FAR TO THE SEA</iname>
+            <modifier>missionaryPower|7</modifier> <!--finds a modifier called missionaryPower and applies 7% in countries with that religion-->
+        </idea>
+        <idea>
+            <iname>Narnkhshar</iname>
+            <modifier>gunPower|400</modifier>
+        </idea>
+    </ideas>
 </religion>
